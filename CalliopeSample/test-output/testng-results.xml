@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Build and Session Information retrieved from LambdaTest API's]]>
+    </line>
+    <line>
+      <![CDATA[Basic cmFtaXRkbGFtYmRhdGVzdDpBcjdzcjgyQUNiUVhSaTIzdWprdFdhU3VCUnE5ak9qSW52QmFlbGlleUMwMFhhdlpVUA==]]>
+    </line>
+    <line>
+      <![CDATA[https://api.lambdatest.com/automation/api/v1/sessions/95eae9ea5c93b2685a60a4bb65bbe6bf]]>
+    </line>
+    <line>
+      <![CDATA[{
+data:{
+name=Calliope-Sample-Test,
+duration=23,
+platform=win10,
+browser=chrome,
+browserVersion=70.0,
+device=,
+statusInd=running,
+sessionId=95eae9ea5c93b2685a60a4bb65bbe6bf,
+buildName=LambdaTest Integration with Calliope,
+consoleLogsUrl=https://api.lambdatest.com/automation/api/v1/sessions/95eae9ea5c93b2685a60a4bb65bbe6bf/log/console,
+networkLogsUrl=https://api.lambdatest.com/automation/api/v1/sessions/95eae9ea5c93b2685a60a4bb65bbe6bf/log/network,
+commandLogsUrl=https://api.lambdatest.com/automation/api/v1/sessions/95eae9ea5c93b2685a60a4bb65bbe6bf/log/command,
+seleniumLogsUrl=https://api.lambdatest.com/automation/api/v1/sessions/95eae9ea5c93b2685a60a4bb65bbe6bf/log/selenium,
+videoUrl=https://automation.lambdatest.com/public/video?testID=LWYHE-DNR9Y-PY7AN-HI6VU,
+screenshotUrl=https://d15x9hjibri3lt.cloudfront.net/LWYHE-DNR9Y-PY7AN-HI6VU/screenshots.zip
+}, 
+message:Retrieve session was successful, 
+status:success
+}]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38301" started-at="2019-08-16T12:22:31Z" finished-at="2019-08-16T12:23:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38301" started-at="2019-08-16T12:22:31Z" finished-at="2019-08-16T12:23:09Z">
+      <class name="calliopeIntegration.BaseTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calliopeIntegration.BaseTest@42d80b78]" name="setUp" is-config="true" duration-ms="13319" started-at="2019-08-16T12:22:31Z" finished-at="2019-08-16T12:22:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Build and Session Information retrieved from LambdaTest API's]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="BuildSession()[pri:0, instance:calliopeIntegration.BaseTest@42d80b78]" name="BuildSession" duration-ms="20728" started-at="2019-08-16T12:22:44Z" finished-at="2019-08-16T12:23:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuildSession -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:calliopeIntegration.BaseTest@42d80b78]" name="teardown" is-config="true" duration-ms="4225" started-at="2019-08-16T12:23:05Z" finished-at="2019-08-16T12:23:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Basic cmFtaXRkbGFtYmRhdGVzdDpBcjdzcjgyQUNiUVhSaTIzdWprdFdhU3VCUnE5ak9qSW52QmFlbGlleUMwMFhhdlpVUA==]]>
+            </line>
+            <line>
+              <![CDATA[https://api.lambdatest.com/automation/api/v1/sessions/95eae9ea5c93b2685a60a4bb65bbe6bf]]>
+            </line>
+            <line>
+              <![CDATA[{
+data:{
+name=Calliope-Sample-Test,
+duration=23,
+platform=win10,
+browser=chrome,
+browserVersion=70.0,
+device=,
+statusInd=running,
+sessionId=95eae9ea5c93b2685a60a4bb65bbe6bf,
+buildName=LambdaTest Integration with Calliope,
+consoleLogsUrl=https://api.lambdatest.com/automation/api/v1/sessions/95eae9ea5c93b2685a60a4bb65bbe6bf/log/console,
+networkLogsUrl=https://api.lambdatest.com/automation/api/v1/sessions/95eae9ea5c93b2685a60a4bb65bbe6bf/log/network,
+commandLogsUrl=https://api.lambdatest.com/automation/api/v1/sessions/95eae9ea5c93b2685a60a4bb65bbe6bf/log/command,
+seleniumLogsUrl=https://api.lambdatest.com/automation/api/v1/sessions/95eae9ea5c93b2685a60a4bb65bbe6bf/log/selenium,
+videoUrl=https://automation.lambdatest.com/public/video?testID=LWYHE-DNR9Y-PY7AN-HI6VU,
+screenshotUrl=https://d15x9hjibri3lt.cloudfront.net/LWYHE-DNR9Y-PY7AN-HI6VU/screenshots.zip
+}, 
+message:Retrieve session was successful, 
+status:success
+}]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- calliopeIntegration.BaseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
